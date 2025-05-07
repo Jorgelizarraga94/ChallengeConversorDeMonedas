@@ -1,6 +1,7 @@
 # 💱 Convertidor de Divisas
 
-Este es un proyecto en **Java** que permite convertir monedas de forma sencilla y rápida utilizando la **API ExchangeRate**.
+Este es un proyecto en **Java** diseñado para el Challenge final del programa ONE De Alura y Oracle,
+tal programa permite convertir monedas de forma sencilla y rápida utilizando la **API ExchangeRate**.
 
 ## 🚀 Descripción
 
